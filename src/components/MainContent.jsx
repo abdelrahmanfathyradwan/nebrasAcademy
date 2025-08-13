@@ -48,7 +48,7 @@ const MainContent = () => {
               <div className="container mx-auto flex flex-col md:flex-row items-start pl-3">
                 <div className="md:w-1/2 mb-8 md:mb-0 order-2 md:order-1">
                   <img 
-                    src="/public/images/muslim.jfif" 
+                    src="/images/muslim.jfif" 
                     alt="Quran and Arabic Learning"
                     className="rounded-lg shadow-lg w-full h-auto"
                   />
