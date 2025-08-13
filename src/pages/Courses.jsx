@@ -8,7 +8,7 @@ import { courses } from '../data/data';
       {/* Hero Section */}
       <div className="relative w-full h-[200px] overflow-hidden">
         <img 
-          src="/public/images/celebrateEid .jfif" 
+          src="/images/celebrateEid .jfif" 
           alt="Courses Banner" 
           className="w-full h-full object-cover"
         />
