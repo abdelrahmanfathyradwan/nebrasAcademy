@@ -42,7 +42,7 @@ const Hero = () => {
 
         {/* Fixed WhatsApp Button */}
         <a
-          href='https://wa.me/201146162847?text=Peace%20be%20upon%20you%20and%20God%27s%20mercy%20and%20blessings.%20We%20are%20the%20Nebras%20team%20for%20Quran%20education.%20How%20can%20we%20help%20you%3F'
+          href='https://wa.me/201146162847'
           target='_blank'
           rel='noopener noreferrer'
           className='fixed bottom-8 right-8 z-50 bg-green-500 hover:bg-green-600 text-white p-4 rounded-full shadow-xl transition-all animate-bounce'
