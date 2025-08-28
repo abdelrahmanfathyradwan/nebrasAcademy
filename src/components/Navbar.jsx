@@ -293,7 +293,7 @@ const Navbar = () => {
                   <Link
                     to='/contact'
                     className='block py-1 text-secondary-400 hover:text-secondary'
-                    onClick={() => setIsMoreOpen(false)}
+                    onClick={() => setIsMobileMenuOpen(false)}
                   >
                     Contact
                   </Link>
