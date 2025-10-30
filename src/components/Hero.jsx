@@ -81,7 +81,7 @@ const Hero = () => {
           {/* Dropdown Menu */}
           {isWhatsAppOpen && (
             <div className='absolute bottom-16 right-0 bg-white rounded-lg shadow-xl p-3 min-w-[180px] border border-gray-200'>
-              <h4 className='text-sm font-bold text-gray-700 mb-2 text-center border-b pb-2'>Choose WhatsApp Nunmber</h4>
+              <h4 className='text-sm font-bold text-gray-700 mb-2 text-center border-b pb-2'>Choose WhatsApp Number</h4>
               <div className='space-y-2'>
                 {whatsappNumbers.map((item, index) => (
                   <button
